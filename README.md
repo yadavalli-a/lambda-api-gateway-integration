@@ -1,6 +1,6 @@
 # Project 2 — Lambda + API Gateway Integration
 
-*Hands-on runbook — built from scratch in Aruna's AWS account*
+*Hands-on runbook*
 
 ## Repo Contents
 
