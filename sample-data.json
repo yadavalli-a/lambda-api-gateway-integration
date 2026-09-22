@@ -1,0 +1,4 @@
+{
+  "message": "Hello from S3 via API Gateway!",
+  "project": "Lambda + API Gateway Integration"
+}

@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Python (if Lambda code is added here later)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# AWS SAM / CDK build artifacts (if added later)
+.aws-sam/
+cdk.out/
