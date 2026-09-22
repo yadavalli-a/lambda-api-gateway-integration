@@ -8,6 +8,10 @@
 - `data/sample-data.json` — the object uploaded to S3 for `/s3/{proxy+}`
 - `iam/S3ReadForApiGateway-policy.json` — the inline policy attached to the API Gateway → S3 execution role
 
+
+## Flow of the exercise ..
+![Architecture diagram](images/API Gateway1.png)
+
 ## 1. What We Built
 
 One REST API Gateway exposes two endpoints using two different integration patterns: `GET /lambda` uses Lambda Proxy Integration, while `ANY /s3/{proxy+}` integrates directly with S3 without Lambda in between.
