@@ -11,7 +11,7 @@
 
 ## Flow of the exercise ..
 
-![Architecture Diagram](API Gateway1.png)
+![Architecture Diagram](API-Gateway1.png)
 
 ## 1. What We Built
 
