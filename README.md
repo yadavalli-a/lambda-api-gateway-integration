@@ -1,4 +1,5 @@
-# Project 2 — Lambda + API Gateway Integration
+# API Gateway Integration - Two Ways 
+## Lambda and S3
 
 *Hands-on runbook*
 
